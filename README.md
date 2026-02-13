@@ -98,6 +98,7 @@ These items generate the lowest revenue and may require menu optimization.
 
 ## 📂 Repository Structure
 
+```text
 pizza-place-sales-analysis/
 │
 ├── Pizza_Place_EDA.ipynb
@@ -107,7 +108,7 @@ pizza-place-sales-analysis/
 │ ├── pizzas.csv
 │ └── pizza_types.csv
 └── README.md
-
+```
 ---
 
 ## 🚀 Key Insights
